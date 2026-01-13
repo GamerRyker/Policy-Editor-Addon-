@@ -12,3 +12,5 @@ STEPS:
 WARNING!
 
 We are not responsible for any damages or issues this may cause to your Chromebook! Use at your own RISK.
+
+For those of you who have Read&Write, you will have to edit the script to include Read&Write as a force installed extension.
