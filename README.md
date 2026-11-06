@@ -1,4 +1,4 @@
-# Policy-Editor-Addon-
+# Policy Editor Addon
 For the people who ended up using the Policy Editor Script, but some / all of the required extensions were not installed.
 STEPS:
 1. Open the VT2 Developer Shell (Control + ALT + F2) Login as root
